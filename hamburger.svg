@@ -1,0 +1,8 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="hamburger">
+<circle id="circle" cx="30" cy="30" r="30" fill="#3D3B3B"/>
+<line id="bot line" x1="17" y1="39.5" x2="44" y2="39.5" stroke="#C6C6C6"/>
+<line id="mid line" x1="17" y1="30.5" x2="44" y2="30.5" stroke="#C6C6C6"/>
+<line id="top line" x1="17" y1="21.5" x2="44" y2="21.5" stroke="#C6C6C6"/>
+</g>
+</svg>
